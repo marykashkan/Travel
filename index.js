@@ -1,0 +1,1 @@
+console.log('1.Image slider in destinations section +50\n2.Clicking on the Login button (Account button in the mobile version) shows the created login popup + 50\n3.Pressing the Register button on the Login popup changes the popup markup to the Sign Up popup markup according to the layout (i.e. clicking does not close the modal, but simply changes its content). +25');
